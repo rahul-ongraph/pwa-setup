@@ -1,0 +1,249 @@
+@import url("https://fonts.googleapis.com/css2?family=Tourney:wght@100&display=swap");
+.wrap_header {
+    display: flex;
+}
+.left_header {
+    width: 50%;
+}
+.input-icons i {
+    position: absolute;
+    margin-top: 9px;
+} 
+.input-icons {
+    width: 100%;
+    margin-bottom: 10px;
+}
+.icon {
+    padding: 10px;
+    min-width: 40px;
+}
+.input-field {
+    width:80%;
+    padding:5px;
+    text-align: center;
+}
+.logo_wrap {
+    margin-left: 30px;
+    color: tomato;
+    margin-top: 1px;
+}
+.wrap_banner {
+    background-color: tomato;
+    display: flex;
+}
+.wrap-text {
+    margin-left: 10rem;
+    justify-content: center;  
+    line-height: 0.1;
+    padding: 60px;
+  }
+  .wrap-text-1 {
+    font-size: 2.8rem;
+  }
+.wrap-text-2 {
+    font-family: "Tourney", cursive;
+    font-size: 7.8rem;
+    font-weight: 600;
+    color: grey;
+  }
+  .btn-btn {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+  }
+.wrap_btn {
+    background-color: black;
+    color: white;
+}
+.wrap_category {
+    background-color: darkgrey;
+}
+.category_section {
+    margin: auto;
+    background-color: white;
+    width:80%;
+    border: 15px solid grey;
+}
+.wrap_heading {
+    display: flex;
+    justify-content: space-between;
+}
+.wrap_heading p {
+    margin-left: 20px;
+}
+
+.btn_text {
+    height:30px;
+    margin-top: 10px;
+    margin-right: 25px;
+}
+.card {
+    height:300px;
+    width: 22%;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.card_wrap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.wrap_collection {
+    background-color: brown;
+    display: flex;   
+}
+.wrap-collection_text {
+    margin-top: 50px;
+    margin-left: 10rem;
+    justify-content: center;  
+    line-height: 0.3;
+    padding: 60px;
+}
+.wrap-collection-1 {
+    color: white;
+}
+.wrap-collection-2 {
+    color: white;
+    font-size:8px;
+    margin-bottom: 25px;
+}
+.treading {
+    background-color: white;
+    height: 530px;
+}
+.treading_section {
+   margin:auto;
+    background-color: white;
+    /* margin-right: 30px; */
+    width:80%;
+    border: 15px solid white;
+}
+.wrap_heading {
+    display: flex;
+    justify-content: space-between;
+}
+.wrap_heading p {
+    margin-left: 20px;
+}
+.btn_text {
+    height:30px;
+    margin-top: 10px;
+    margin-right: 25px;
+}
+.brand_name {
+    text-align: center;
+}
+.brand_text_name {
+    font-size: 10px;
+    line-height: 0.1px;
+    text-align: center;
+}
+.btn_view_wrap {
+    text-align: center;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    padding:10px;
+    width: 40%;
+}
+.our_collection {
+    background-color: gray;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+    margin: auto;
+}
+.wrap_container {
+    /* display: flex; */
+    display: inline-flex;
+    margin: auto;
+}
+.col_2_grid {
+    flex-wrap: nowrap;
+    display: grid;
+}
+.collection_heading {
+    justify-content: center;
+}
+.wrap_arrival {
+    background-color: pink;
+    display: flex;
+}
+ .wrap-arrival_text-2 {      
+  font-family: "Tourney", cursive;
+ /* font-size: 7.8rem; */
+    font-weight: 600;
+    color: grey;
+  }
+  /* .wrap_arrival {
+    background-color: darkgrey;
+} */
+.arrival_section {
+    margin: auto;
+    background-color: white;
+    width:80%;
+    /* border: 15px solid grey; */
+}
+.wrap_heading {
+    display: flex;
+    justify-content: space-between;
+}
+.wrap_heading p {
+    margin-left: 20px;
+}
+ .card_arrival {
+    height: 322px;
+    width: 23%;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.card_wrap_arrival {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.wrap_news {
+    height: 150px;
+    background-color: hsl(0, 0%, 90%);
+    transition: background-color 300ms;
+    display: flex;
+    justify-content: space-evenly;
+}
+.sign_up_text {
+    margin-top: 45px;
+    font-size:20px;
+    line-height: 0.1px;
+}
+.wrap_input {
+   display: flex;
+}
+.wrap_input {
+margin-top: 45px;
+display: flex;
+}
+.btn_wrap {
+    height:55px;
+    background-color: red;
+}
+.wrap_input_field {
+    height:50px;
+}
+.Lorem_ipsum {
+    font-size: 10px;
+}
+.footer {
+    display: flex;
+    justify-content: space-around;
+    background-color: hsl(0, 0%, 90%);
+    transition: background-color 300ms;
+}
+.footer_wrap {  
+}
+.footer_wrap p {
+    font-size: 15px;
+     line-height: 0.1px;
+}
+.icon_wrap {
+    display: flex;
+    justify-content: space-around;
+}
